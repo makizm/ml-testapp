@@ -1,0 +1,23 @@
+{
+  "name": "ml-testapp",
+  "version": "1.0.0",
+  "description": "sandbox heroku app with postgress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makizm/ml-testapp.git"
+  },
+  "author": "Max Leychenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makizm/ml-testapp/issues"
+  },
+  "homepage": "https://github.com/makizm/ml-testapp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.8.0"
+  }
+}
